@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**MCAST-Team/MCAST-Team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 我很喜欢几种人
+- 提出"为什么我服务器关了之后就连不上服务器"的人
+- 使用JDK 8运行JE 1.21.x服务器的人
+- 说自己服务器有问题但是就是不给出服务器日志/问题截图的人
+- 截图"不要截图此界面"并询问他人如何解决的人
+- 尝试在Java/PHP/Golang/C#编写的JE服务端加载BEAddons的人
+- "``java -jar server.jar``"的人
+- 把插件扔到mods文件夹，把mod扔到plugins文件夹的人
+- 尝试自定义一个不存在的frp并且进行连接的人
+- 退出服务器之前不关闭刷线机/刷地毯机/刷铁轨机的人
+- 不安装恰当版本的语言编译器/解释器运行对应语言编写的服务端的人
+- 将客户端mod安装到服务端并抛出mixin注入类错误的人
+- 喜欢瞎玩强制关闭服务器导致核心爆炸的人
+- 把服务器核心jar文件解压的人
+- AuthMe防自己的人
+- 看不懂中文解决方案向他人询问这为何意的人
+- 在Fabric服务端加载Forge Mod/在Forge服务端加载Fabric Mod的人
+- 哥们你LLBDS装JDK干什么
+- 把不同服务端之前的插件/Mod乱塞的人
+- 加载一个损坏的Mod/不兼容的Mod导致服务端主线程爆炸的人
+- 服务端未下载完毕直接开服导致主线程爆炸的人
